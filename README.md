@@ -1,9 +1,25 @@
-```bash
-brew install neovim
-```bash
-brew install alacritty
+## ⚙️ Requirements
+1. **Neovim**:
+   ```bash
+   brew install neovim
+   ```
+2. **Alacritty**: Terminal Emulator 
+   ```bash
+   brew install alacritty
+   ```
+3. **Tmux**: Terminal Multiplexer 
+   ```bash
+   brew install tmux
+   ```
 
+---
+
+## 📂 File Structure
+```
 .config
-├── alacritty      # Configurations for Alacritty terminal
-├── nvim           # Configurations for Neovim
-└── tmux           # Configurations for Tmux
+├── alacritty      # การตั้งค่าสำหรับ Alacritty
+├── nvim           # การตั้งค่าสำหรับ Neovim
+└── tmux           # การตั้งค่าสำหรับ Tmux
+```
+
+---
