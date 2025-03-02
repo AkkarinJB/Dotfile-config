@@ -1,0 +1,27 @@
+
+[colors.primary]
+background = "#1e1e2e"
+foreground = "#cdd6f4"
+
+[cursor.style]
+blinking = "Always"
+shape = "Beam"
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[window]
+decorations = "full"
+opacity = 0.9
+
+[window.padding]
+x = 10
+y = 10
+
+[terminal]
+
+
